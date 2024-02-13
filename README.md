@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Lucas Duarte, Developer</h1>
 
-![github_cover_banner](lucas2.jpg)
+![github_cover_banner](LucasDuarteGitHub.jpg)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Sou um jovem com capacidade de iniciativa e com vontade de expandir os meus conhecimentos na área da informática. Estou sempre disposto aceitar novos desafios e ajudar.
