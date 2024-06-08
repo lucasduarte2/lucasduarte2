@@ -8,6 +8,8 @@
 <br>
 <div align="center">
 
+![github_cover_banner](coil.png)
+
 [Email Me](mailto:geral@lucasduarte.pt)
 </div>
 </p>    
