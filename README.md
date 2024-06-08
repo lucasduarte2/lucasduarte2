@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 
-![github_cover_banner](coil.png)
+<img src="coil.png" alt="github_cover_banner" style="width: 50%; height: auto;">
 
 [Email Me](mailto:geral@lucasduarte.pt)
 </div>
