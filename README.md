@@ -7,7 +7,7 @@
 <br>
 <br>
 <div align="center">
-
+<script src="https://tryhackme.com/badge/3555615"></script>
 <img src="coil.png" alt="github_cover_banner" style="width: 50%; height: auto;">
 
 [Email Me](mailto:geral@lucasduarte.pt)
