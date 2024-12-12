@@ -3,14 +3,14 @@
 <h1 style="text-align: center;">Hello World!, I'm Lucas, a Portuguese Developer 👋🏼:</h1>
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div style="max-width: 70%;">
+  <div style="flex: 1; min-width: 60%; padding-right: 20px;">
     <p>🛜 Currently working on my own <a href="https://www.lucasduarte.pt/" target="_blank">portfolio</a></p>
     <p>👨🏼‍🎓 Studying for a Bachelor's Degree in Information Technologies at Universidade de Aveiro</p>
     <p>👨🏼‍💻 Gaining experience as a Web Development student since 2021.</p>
     <p>🎬 Planning to launch my YouTube channel, Lucas Duarte Tech, soon.</p>
   </div>
-  <div style="max-width: 25%; text-align: right;">
-    <img src="coil.png" alt="GitHub Cover Banner" width="200" height="auto">
+  <div style="flex: 0 0 auto; text-align: right;">
+    <img src="coil.png" alt="GitHub Cover Banner" style="width: 200px; height: auto;" />
   </div>
 </div>
 
