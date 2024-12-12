@@ -10,7 +10,7 @@
     <p>🎬 Planning to launch my YouTube channel, Lucas Duarte Tech, soon.</p>
   </div>
   <div style="max-width: 25%; text-align: right;">
-    <img src="coil.png" alt="GitHub Cover Banner" style="width: 100%; height: auto;">
+    <img src="coil.png" alt="GitHub Cover Banner" width="200" height="auto">
   </div>
 </div>
 
