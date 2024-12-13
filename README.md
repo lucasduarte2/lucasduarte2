@@ -1,4 +1,4 @@
-<img src="LucasDuarteGitHub.jpg" alt="GitHub Banner" width="100%" />
+<img src="bannerld.jpg" alt="GitHub Banner" width="100%" />
 
 <h1 style="text-align: center;">Hello World!, I'm Lucas, a Portuguese Developer 👋🏼:</h1>
 
