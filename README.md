@@ -1,6 +1,6 @@
 <img src="bannerld.jpg" alt="GitHub Banner" width="100%" />
 
-<h1 style="text-align: center;">Hello World!, I'm Lucas, a Portuguese Developer 👋🏼:</h1>
+<h1 style="text-align: center;">Hello World!, I'm Lucas, a Portuguese Developer 👋🏼</h1>
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 60%; padding-right: 20px;">
