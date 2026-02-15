@@ -7,7 +7,6 @@
     <p>🛜 Currently working on my own <a href="https://www.lucasduarte.pt/" target="_blank">portfolio</a></p>
     <p>👨🏼‍🎓 Studying for a Bachelor's Degree in Information Technologies at Universidade de Aveiro</p>
     <p>👨🏼‍💻 Gaining experience as a Web Development student since 2021.</p>
-    <p>🎬 Planning to launch my YouTube channel, Lucas Duarte Tech, soon.</p>
     <p>🏅 Check out my badge on <a href="https://openbadgepassport.com/app/badge/info/748479" target="_blank">OpenBadge Passport</a></p>
   </div>
 </div>
